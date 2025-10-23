@@ -5,20 +5,12 @@
             "Astra Yao"
         ]
     },
-    "zenless zone zero $1": {
+    "zenless zone zero $2": {
         "zankon": [
-            "Blonde-haired Idol",
-            "Butler (ZZZ)",
-            "Ellen Joe",
-            "Evelyn",
             "Grace Howard",
-            "Orphie",
-            "Rain (ZZZ)",
-            "Ukinami Yuzuha",
-            "Vivian (ZZZ)"
+            "Orphie"
         ],
         "xxjose\\_scxx": [
-            "Eous",
             "Hoshimi Miyabi",
             "Koleda Belobog"
         ],
@@ -27,13 +19,20 @@
         ],
         "vityzen": [
             "Nekomata",
-            "Nicole Demara",
-            "Pulchra",
+            "Nicole Demara"
+        ]
+    },
+    "zenless zone zero $5": {
+        "\\_polloz": [
+            "Susie (ZZZ)"
+        ],
+        "vityzen": [
             "Trigger",
             "Venus (ZZZ)"
         ],
-        "\\_polloz": [
-            "Susie (ZZZ)"
+        "zankon": [
+            "Ukinami Yuzuha",
+            "Vivian (ZZZ)"
         ]
     }
 }
