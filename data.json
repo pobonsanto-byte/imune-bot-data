@@ -202,6 +202,10 @@
     {
       "ts": "2025-10-27T14:53:09.139616-03:00",
       "entry": "warn: user=247058489887686656 by=bot reason=Uso excessivo de maiúsculas"
+    },
+    {
+      "ts": "2025-10-27T14:53:23.561738-03:00",
+      "entry": "warn: user=247058489887686656 by=bot reason=Uso excessivo de maiúsculas"
     }
   ],
   "last_messages": {
