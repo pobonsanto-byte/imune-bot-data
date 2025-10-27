@@ -90,6 +90,10 @@
     {
       "ts": "2025-10-27T13:02:25.131592-03:00",
       "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
+    },
+    {
+      "ts": "2025-10-27T13:10:41.522783-03:00",
+      "entry": "reaction remove: user=247058489887686656 role=1425149244133867570 msg=1432395081519992833"
     }
   ],
   "last_messages": {
