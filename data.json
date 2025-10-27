@@ -52,6 +52,10 @@
     {
       "ts": "2025-10-27T15:44:18.664911",
       "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
+    },
+    {
+      "ts": "2025-10-27T15:44:21.798578",
+      "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
     }
   ],
   "last_messages": {
