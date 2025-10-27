@@ -62,6 +62,11 @@
         "by": 1425117651327389818,
         "reason": "Spam detectado",
         "ts": "2025-10-27T14:52:54.962330-03:00"
+      },
+      {
+        "by": 1425117651327389818,
+        "reason": "Uso excessivo de maiúsculas",
+        "ts": "2025-10-27T14:53:08.144241-03:00"
       }
     ],
     "289801244653125634": [
@@ -205,7 +210,8 @@
       "wa",
       "de",
       "wa",
-      "KRl LOUCURA MALUCO"
+      "KRl LOUCURA MALUCO",
+      "DNASDNADNONOCKAKSLDNOANKASDA NAKAS NDKLNDOA ADJNASDAUIDN ADJNAUISD H"
     ]
   }
 }
