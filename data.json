@@ -96,7 +96,8 @@
     }
   },
   "config": {
-    "welcome_channel": "1430265127847854212"
+    "welcome_channel": "1430265127847854212",
+    "welcome_message": "Oi {member}, hm... pero♪♫"
   },
   "logs": [
     {
