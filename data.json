@@ -77,6 +77,10 @@
     {
       "ts": "2025-10-27T15:44:59.077526",
       "entry": "warn: user=247058489887686656 by=289801244653125634 reason=Sem motivo informado"
+    },
+    {
+      "ts": "2025-10-27T15:46:41.834016",
+      "entry": "reactionrole created msg=1432395081519992833 emoji=➡️ role=1425149244133867570"
     }
   ],
   "last_messages": {
