@@ -244,6 +244,10 @@
     {
       "ts": "2025-10-27T16:55:49.453288-03:00",
       "entry": "member_join: 247058489887686656 - azutra"
+    },
+    {
+      "ts": "2025-10-27T19:11:25.072403-03:00",
+      "entry": "warn: user=289801244653125634 by=bot reason=Enviou link em canal bloqueado"
     }
   ],
   "last_messages": {
