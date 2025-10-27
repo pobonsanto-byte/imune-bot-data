@@ -61,6 +61,10 @@
     {
       "ts": "2025-10-27T15:44:21.798578",
       "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
+    },
+    {
+      "ts": "2025-10-27T15:44:43.869848",
+      "entry": "warn: user=247058489887686656 by=bot reason=Uso excessivo de maiúsculas"
     }
   ],
   "last_messages": {
