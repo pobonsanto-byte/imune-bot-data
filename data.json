@@ -1,11 +1,12 @@
 {
   "xp": {
-    "247058489887686656": 315,
+    "247058489887686656": 330,
     "289801244653125634": 60
   },
   "level": {
-    "247058489887686656": 2
+    "247058489887686656": 3
   },
+  "warns": {},
   "reaction_roles": {
     "1432388488715571421": {
       "😎": "1431473546533535937"
@@ -190,6 +191,10 @@
     {
       "ts": "2025-10-27T20:24:58.564596-03:00",
       "entry": "role_button_click: user=247058489887686656 role=1425149244133867570 message=1432510280138625046"
+    },
+    {
+      "ts": "2025-10-27T21:03:58.565435-03:00",
+      "entry": "level_up: user=247058489887686656 level=3"
     }
   ],
   "last_messages": {
@@ -204,11 +209,11 @@
   },
   "last_messages_content": {
     "247058489887686656": [
-      "KRl LOUCURA MALUCO",
       "DNASDNADNONOCKAKSLDNOANKASDA NAKAS NDKLNDOA ADJNASDAUIDN ADJNAUISD H",
       "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
       "kkkkkkkkk",
-      "kkkkkkkkkkkkkkkkkkkkkkkk"
+      "kkkkkkkkkkkkkkkkkkkkkkkk",
+      "wa"
     ]
   },
   "command_channels": {
