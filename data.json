@@ -203,6 +203,10 @@
     {
       "ts": "2025-10-27T21:03:58.565435-03:00",
       "entry": "level_up: user=247058489887686656 level=3"
+    },
+    {
+      "ts": "2025-10-27T21:04:01.672359-03:00",
+      "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
     }
   ],
   "last_messages": {
