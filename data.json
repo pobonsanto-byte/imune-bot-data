@@ -216,6 +216,10 @@
     {
       "ts": "2025-10-27T21:04:05.371647-03:00",
       "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
+    },
+    {
+      "ts": "2025-10-28T18:27:19.542830-03:00",
+      "entry": "role_button_click: user=289801244653125634 role=1425149244133867570 message=1432510280138625046"
     }
   ],
   "last_messages": {
