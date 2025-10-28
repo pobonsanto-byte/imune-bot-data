@@ -6,7 +6,15 @@
   "level": {
     "247058489887686656": 3
   },
-  "warns": {},
+  "warns": {
+    "247058489887686656": [
+      {
+        "by": 1425117651327389818,
+        "reason": "Spam detectado",
+        "ts": "27/10/2025 21:04"
+      }
+    ]
+  },
   "reaction_roles": {
     "1432388488715571421": {
       "😎": "1431473546533535937"
@@ -209,7 +217,6 @@
   },
   "last_messages_content": {
     "247058489887686656": [
-      "DNASDNADNONOCKAKSLDNOANKASDA NAKAS NDKLNDOA ADJNASDAUIDN ADJNAUISD H",
       "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
       "kkkkkkkkk",
       "kkkkkkkkkkkkkkkkkkkkkkkk",
