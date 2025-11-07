@@ -1,7 +1,7 @@
 {
   "xp": {
     "292756862020091906": 75,
-    "289801244653125634": 45
+    "289801244653125634": 60
   },
   "level": {},
   "warns": {
@@ -99,7 +99,8 @@
     "289801244653125634": [
       "N setou o canal",
       "https://www.youtube.com/watch?v=RX-UQUIhPCY",
-      "N precisa ir no chat, só  botar no comando o canal"
+      "N precisa ir no chat, só  botar no comando o canal",
+      "Pq se bloquear em todos n daria para mandar os gifs"
     ]
   },
   "blocked_links_channels": []
