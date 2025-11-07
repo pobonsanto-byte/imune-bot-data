@@ -54,7 +54,11 @@
       }
     ]
   },
-  "reaction_roles": {},
+  "reaction_roles": {
+    "1436426594184073437": {
+      "💀": "1425149244133867570"
+    }
+  },
   "config": {
     "welcome_channel": "1432853108815302786",
     "welcome_message": "Sucumba"
