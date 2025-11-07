@@ -1,7 +1,7 @@
 {
   "xp": {
     "292756862020091906": 60,
-    "289801244653125634": 15
+    "289801244653125634": 30
   },
   "level": {},
   "warns": {
@@ -96,7 +96,8 @@
       "https://www.youtube.com/watch?v=RX-UQUIhPCY"
     ],
     "289801244653125634": [
-      "N setou o canal"
+      "N setou o canal",
+      "https://www.youtube.com/watch?v=RX-UQUIhPCY"
     ]
   },
   "blocked_links_channels": []
