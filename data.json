@@ -64,7 +64,8 @@
   "config": {
     "welcome_channel": "1436455612224639076",
     "welcome_message": "Oi {member}, hm... pero♪♫   Portal dos Gachas!",
-    "levelup_channel": 1436431914075426846
+    "levelup_channel": 1436431914075426846,
+    "welcome_background": "https://media.discordapp.net/attachments/968238229448970331/1431421527399858266/2-8-early-banners-for-2-8-stc-via-seele-v0-cmsyavx1vmtf1.png?ex=690f26ee&is=690dd56e&hm=075a4c8e8422cd666d79d068eb65fc1564ae260cbc3049f6a1811fa69b0b9450&=&format=webp&quality=lossless"
   },
   "logs": [
     {
