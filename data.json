@@ -1,7 +1,8 @@
 {
   "xp": {
     "292756862020091906": 105,
-    "289801244653125634": 60
+    "289801244653125634": 60,
+    "247058489887686656": 15
   },
   "level": {
     "292756862020091906": 2
@@ -112,6 +113,9 @@
       "https://www.youtube.com/watch?v=RX-UQUIhPCY",
       "N precisa ir no chat, só  botar no comando o canal",
       "Pq se bloquear em todos n daria para mandar os gifs"
+    ],
+    "247058489887686656": [
+      "tenho q adicionar a foto no link do codigo"
     ]
   },
   "blocked_links_channels": [
