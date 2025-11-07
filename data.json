@@ -3,7 +3,15 @@
     "292756862020091906": 45
   },
   "level": {},
-  "warns": {},
+  "warns": {
+    "292756862020091906": [
+      {
+        "by": 1425117651327389818,
+        "reason": "Spam detectado",
+        "ts": "07/11/2025 15:03"
+      }
+    ]
+  },
   "reaction_roles": {},
   "config": {
     "welcome_channel": null
