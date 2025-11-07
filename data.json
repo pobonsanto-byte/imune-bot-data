@@ -34,6 +34,10 @@
     {
       "ts": "2025-11-07T15:03:08.950077-03:00",
       "entry": "warn: user=292756862020091906 by=bot reason=Spam detectado"
+    },
+    {
+      "ts": "2025-11-07T15:03:11.582512-03:00",
+      "entry": "warn: user=292756862020091906 by=bot reason=Spam detectado"
     }
   ],
   "last_messages_content": {
