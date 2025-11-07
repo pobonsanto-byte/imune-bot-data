@@ -111,5 +111,10 @@
   },
   "blocked_links_channels": [
     1432465544749252698
-  ]
+  ],
+  "command_channels": {
+    "rank": [
+      1432465544749252698
+    ]
+  }
 }
