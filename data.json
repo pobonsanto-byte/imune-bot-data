@@ -1,9 +1,11 @@
 {
   "xp": {
-    "292756862020091906": 90,
+    "292756862020091906": 105,
     "289801244653125634": 60
   },
-  "level": {},
+  "level": {
+    "292756862020091906": 2
+  },
   "warns": {
     "292756862020091906": [
       {
@@ -86,15 +88,19 @@
     {
       "ts": "2025-11-07T15:05:03.918383-03:00",
       "entry": "warn: user=292756862020091906 by=bot reason=Enviou link em canal bloqueado"
+    },
+    {
+      "ts": "2025-11-07T15:08:53.072326-03:00",
+      "entry": "level_up: user=292756862020091906 level=2"
     }
   ],
   "last_messages_content": {
     "292756862020091906": [
-      "..",
       ".",
       "https://www.youtube.com/watch?v=RX-UQUIhPCY",
       "eu teria q passar em chat por chat pra bloquear links e qualquer configuração?",
-      "sim sim tlgd"
+      "sim sim tlgd",
+      "só em 99 chats"
     ],
     "289801244653125634": [
       "N setou o canal",
