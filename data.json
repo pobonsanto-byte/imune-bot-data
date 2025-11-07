@@ -1,11 +1,11 @@
 {
   "xp": {
-    "292756862020091906": 315,
+    "292756862020091906": 330,
     "289801244653125634": 135,
     "247058489887686656": 30
   },
   "level": {
-    "292756862020091906": 2,
+    "292756862020091906": 3,
     "289801244653125634": 2
   },
   "warns": {
@@ -174,15 +174,19 @@
     {
       "ts": "2025-11-07T15:50:19.277717-03:00",
       "entry": "reaction remove: user=289801244653125634 role=1431473546533535937 msg=1436426594184073437"
+    },
+    {
+      "ts": "2025-11-07T16:08:21.364193-03:00",
+      "entry": "level_up: user=292756862020091906 level=3"
     }
   ],
   "last_messages_content": {
     "292756862020091906": [
-      "a roccia n é maloqueira n",
       "kkkkkkkkk",
       "tem mensagem propria tipo essa aqui ?",
       "n é necessario mas é só uma curiosidade mesmo",
-      "eu posso setar os canais de um canal só né?"
+      "eu posso setar os canais de um canal só né?",
+      "isso é legal"
     ],
     "289801244653125634": [
       "tem",
