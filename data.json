@@ -1,1 +1,17 @@
-{}
+{
+  "xp": {
+    "292756862020091906": 15
+  },
+  "level": {},
+  "warns": {},
+  "reaction_roles": {},
+  "config": {
+    "welcome_channel": null
+  },
+  "logs": [],
+  "last_messages_content": {
+    "292756862020091906": [
+      "."
+    ]
+  }
+}
