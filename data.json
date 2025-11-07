@@ -143,6 +143,10 @@
     {
       "ts": "2025-11-07T15:29:39.813326-03:00",
       "entry": "level_up: user=289801244653125634 level=2"
+    },
+    {
+      "ts": "2025-11-07T15:46:29.024493-03:00",
+      "entry": "reactionrole created msg=1436426594184073437 emoji=💀 role=1425149244133867570"
     }
   ],
   "last_messages_content": {
