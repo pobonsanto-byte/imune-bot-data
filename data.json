@@ -54,7 +54,8 @@
   },
   "reaction_roles": {},
   "config": {
-    "welcome_channel": "1432853108815302786"
+    "welcome_channel": "1432853108815302786",
+    "welcome_message": "Sucumba"
   },
   "logs": [
     {
