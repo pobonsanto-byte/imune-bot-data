@@ -1,7 +1,7 @@
 {
   "xp": {
     "289801244653125634": 422,
-    "247058489887686656": 41
+    "247058489887686656": 42
   },
   "level": {
     "289801244653125634": 3
@@ -111,11 +111,11 @@
       "asdakoda"
     ],
     "247058489887686656": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLmL1utnZHNxjvzBbiLdJ8JuQKfTZcCfWnLQ&s",
       "teste",
       "jogo",
       "fuds",
-      "juena"
+      "juena",
+      "ia"
     ]
   },
   "blocked_links_channels": [
