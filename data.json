@@ -88,6 +88,10 @@
     {
       "ts": "2025-11-09T03:13:48.487409-03:00",
       "entry": "warn: user=247058489887686656 by=bot reason=Enviou link em canal bloqueado"
+    },
+    {
+      "ts": "2025-11-09T03:42:38.600393-03:00",
+      "entry": "role_button_click: user=289801244653125634 role=1425149244133867570 message=1436969173086634035"
     }
   ],
   "level_roles": {
