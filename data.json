@@ -44,6 +44,11 @@
         "by": 1425117651327389818,
         "reason": "Enviou link em canal bloqueado",
         "ts": "09/11/2025 03:13"
+      },
+      {
+        "by": 1425117651327389818,
+        "reason": "Spam detectado",
+        "ts": "09/11/2025 20:21"
       }
     ]
   },
@@ -111,7 +116,6 @@
       "asdakoda"
     ],
     "247058489887686656": [
-      "jogo",
       "fuds",
       "juena",
       "ia",
