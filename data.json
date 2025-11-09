@@ -3,7 +3,15 @@
     "289801244653125634": 15
   },
   "level": {},
-  "warns": {},
+  "warns": {
+    "289801244653125634": [
+      {
+        "by": 1425117651327389818,
+        "reason": "Spam detectado",
+        "ts": "09/11/2025 01:09"
+      }
+    ]
+  },
   "reaction_roles": {},
   "config": {
     "welcome_channel": null
