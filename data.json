@@ -57,6 +57,10 @@
     {
       "ts": "2025-11-09T01:10:28.495768-03:00",
       "entry": "level_up: user=289801244653125634 level=3"
+    },
+    {
+      "ts": "2025-11-09T03:12:23.587317-03:00",
+      "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
     }
   ],
   "level_roles": {
