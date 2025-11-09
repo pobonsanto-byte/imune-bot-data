@@ -1,8 +1,10 @@
 {
   "xp": {
-    "289801244653125634": 90
+    "289801244653125634": 105
   },
-  "level": {},
+  "level": {
+    "289801244653125634": 2
+  },
   "warns": {
     "289801244653125634": [
       {
@@ -38,6 +40,10 @@
     {
       "ts": "2025-11-09T01:09:28.611443-03:00",
       "entry": "warn: user=289801244653125634 by=bot reason=Spam detectado"
+    },
+    {
+      "ts": "2025-11-09T01:09:42.553750-03:00",
+      "entry": "level_up: user=289801244653125634 level=2"
     }
   ],
   "level_roles": {
@@ -45,11 +51,11 @@
   },
   "last_messages_content": {
     "289801244653125634": [
-      "asjdi",
       "sdsad",
       "asddfew",
       "asdade",
-      "sasdssfd"
+      "sasdssfd",
+      "adeasdasdscfs"
     ]
   }
 }
