@@ -27,7 +27,7 @@
   "reaction_roles": {},
   "config": {
     "welcome_channel": null,
-    "xp_rate": 4
+    "xp_rate": 10
   },
   "logs": [
     {
