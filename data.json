@@ -1,7 +1,7 @@
 {
   "xp": {
     "289801244653125634": 422,
-    "247058489887686656": 32
+    "247058489887686656": 33
   },
   "level": {
     "289801244653125634": 3
@@ -113,7 +113,8 @@
     "247058489887686656": [
       "as",
       "https://www.youtube.com/",
-      ""
+      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-P_uE9skSWjxVScFGi2V603a9jOL0wBFRUg&s"
     ]
   },
   "blocked_links_channels": [
