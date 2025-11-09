@@ -66,6 +66,10 @@
     {
       "ts": "2025-11-09T03:12:23.587317-03:00",
       "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
+    },
+    {
+      "ts": "2025-11-09T03:12:25.819398-03:00",
+      "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
     }
   ],
   "level_roles": {
