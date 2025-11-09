@@ -39,6 +39,11 @@
         "by": 1425117651327389818,
         "reason": "Spam detectado",
         "ts": "09/11/2025 03:12"
+      },
+      {
+        "by": 1425117651327389818,
+        "reason": "Enviou link em canal bloqueado",
+        "ts": "09/11/2025 03:13"
       }
     ]
   },
