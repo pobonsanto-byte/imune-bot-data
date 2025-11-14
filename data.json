@@ -128,6 +128,10 @@
     {
       "ts": "2025-11-13T22:31:22.427323-03:00",
       "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
+    },
+    {
+      "ts": "2025-11-13T22:31:24.757339-03:00",
+      "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
     }
   ],
   "level_roles": {
