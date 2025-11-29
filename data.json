@@ -143,6 +143,10 @@
     {
       "ts": "2025-11-13T22:31:38.209321-03:00",
       "entry": "warn: user=247058489887686656 by=bot reason=Spam detectado"
+    },
+    {
+      "ts": "2025-11-29T12:59:19.976262-03:00",
+      "entry": "member_join: 247058489887686656 - azutra"
     }
   ],
   "level_roles": {
