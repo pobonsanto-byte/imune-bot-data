@@ -250,6 +250,10 @@
     {
       "ts": "2025-12-08T23:05:07.746999-03:00",
       "entry": "member_join: 247058489887686656 - azutra"
+    },
+    {
+      "ts": "2025-12-08T23:06:43.603775-03:00",
+      "entry": "warn: user=247058489887686656 by=bot reason=Enviou link em canal bloqueado"
     }
   ],
   "level_roles": {
