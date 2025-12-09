@@ -86,10 +86,10 @@
     }
   },
   "config": {
-    "welcome_channel": "1436455612224639000",
+    "welcome_channel": "1436455612224639076",
     "xp_rate": 10,
     "welcome_background_original": "https://media.discordapp.net/attachments/968238229448970331/1436420624548630549/roccia-wuwa-768x432.jpg?ex=692be2b4&is=692a9134&hm=a2c34d61408752ed3d3cc0d2093f7fd0ee2db5ac091f9e9e8eafa762b250507d&=&format=webp",
-    "welcome_background": "https://raw.githubusercontent.com/pobonsanto-byte/imune-bot-data/main/welcome_images/welcome_bg_1764431873.webp",
+    "welcome_background": "https://cdn.gameleap.com/images/articles/art_GtRbJgYsgo/art-img_2wfCXBGAL/1x.webp",
     "levelup_channel": "1436431914075426800",
     "welcome_message": "Oi {member}, hm... pero♪♫   Portal dos Gachas!"
   },
