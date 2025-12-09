@@ -1,7 +1,7 @@
 {
   "xp": {
     "289801244653125634": 423,
-    "247058489887686656": 56
+    "247058489887686656": 57
   },
   "level": {
     "289801244653125634": 3
@@ -269,11 +269,11 @@
       "<:whygod:1447731741937762427>"
     ],
     "247058489887686656": [
-      "d",
       "a",
       "d",
       "f",
-      "a"
+      "a",
+      "https://raw.githubusercontent.com/pobonsanto-byte/imune-bot-data/main/welcome_images/welcome_bg_1764431595.webp"
     ]
   },
   "blocked_links_channels": [
