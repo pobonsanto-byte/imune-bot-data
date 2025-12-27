@@ -22,5 +22,13 @@
         "aplicado_por": "sistema",
         "dias": 3,
         "data_aplicacao": "2025-12-27 09:49:23"
+    },
+    "247058489887686656": {
+        "expira": "2025-12-28 11:03:03",
+        "avisado": false,
+        "motivo": "comando_administrativo",
+        "aplicado_por": "darkrats",
+        "dias": 1,
+        "data_aplicacao": "2025-12-27 11:03:03"
     }
 }
