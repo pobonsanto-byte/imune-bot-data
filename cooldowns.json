@@ -1,30 +1,18 @@
 {
     "798020509778444319": {
         "expira": "2025-12-30 21:22:14",
-        "avisado": false,
-        "motivo": "personagem_pego",
-        "aplicado_por": "sistema",
-        "dias": 3,
-        "data_aplicacao": "2025-12-27 21:22:14"
+        "avisado": false
     },
     "502472529521147909": {
         "expira": "2025-12-28 13:23:16",
-        "avisado": false,
-        "motivo": "personagem_pego",
-        "aplicado_por": "sistema",
-        "dias": 3,
-        "data_aplicacao": "2025-12-25 13:23:16"
+        "avisado": false
     },
     "1403727991384572056": {
         "expira": "2025-12-30 09:49:23",
-        "avisado": false,
-        "motivo": "personagem_pego",
-        "aplicado_por": "sistema",
-        "dias": 3,
-        "data_aplicacao": "2025-12-27 09:49:23"
+        "avisado": false
     },
     "247058489887686656": {
-        "expira": "2025-12-28 12:19:30",
+        "expira": "2025-12-27 12:23:30",
         "avisado": false
     }
 }
