@@ -8,12 +8,12 @@
         "data_aplicacao": "2025-12-27 21:22:14"
     },
     "292756862020091906": {
-        "expira": "2025-12-27 07:40:37",
+        "expira": "2025-12-30 07:37:37",
         "avisado": false,
-        "motivo": "personagem_pego",
-        "aplicado_por": "sistema",
+        "motivo": "comando_administrativo",
+        "aplicado_por": "zankon",
         "dias": 3,
-        "data_aplicacao": "2025-12-24 07:40:37"
+        "data_aplicacao": "2025-12-27 07:37:37"
     },
     "502472529521147909": {
         "expira": "2025-12-28 13:23:16",
