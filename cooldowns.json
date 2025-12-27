@@ -14,5 +14,13 @@
         "aplicado_por": "sistema",
         "dias": 3,
         "data_aplicacao": "2025-12-25 13:23:16"
+    },
+    "1403727991384572056": {
+        "expira": "2025-12-30 09:49:23",
+        "avisado": false,
+        "motivo": "personagem_pego",
+        "aplicado_por": "sistema",
+        "dias": 3,
+        "data_aplicacao": "2025-12-27 09:49:23"
     }
 }
